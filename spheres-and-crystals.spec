@@ -6,6 +6,7 @@ Group: 		Graphical desktop/GNOME
 License: 	LGPL
 URL:		http://librsvg.sf.net
 Source: 	http://librsvg.sf.net/releases/%{version}/src/%{name}-%{version}.tar.bz2
+BuildRoot: 	%{_tmppath}/%{name}-%{version}-root
 BuildArch: noarch
 Requires:	librsvg >= 2.2.2
 BuildRequires: 	libgtk+2.0-devel 
