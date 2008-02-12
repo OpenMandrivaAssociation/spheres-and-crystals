@@ -14,7 +14,6 @@ BuildRequires: 	librsvg-devel >= 2.2.2
 BuildRequires:  libart_lgpl-devel >= 2.1.3
 
 %description
-
 Spheres and Crystals is a metatheme for GNOME. It is meant to show the
 possibilities for using SVG icons all over in GNOME.
 
