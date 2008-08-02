@@ -1,6 +1,6 @@
 Name: 		spheres-and-crystals
 Version: 0.7
-Release: %mkrel 8
+Release: %mkrel 9
 Summary: 	Spheres and Crystals SVG theme
 Group: 		Graphical desktop/GNOME
 License: 	LGPL
