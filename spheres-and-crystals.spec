@@ -4,7 +4,7 @@ Release:9
 Summary: 	Spheres and Crystals SVG theme
 Group: 		Graphical desktop/GNOME
 License: 	LGPL
-URL:		http://librsvg.sf.net
+URL:		https://librsvg.sf.net
 Source: 	http://librsvg.sf.net/releases/%{version}/src/%{name}-%{version}.tar.bz2
 BuildArch: noarch
 Requires:	librsvg >= 2.2.2
